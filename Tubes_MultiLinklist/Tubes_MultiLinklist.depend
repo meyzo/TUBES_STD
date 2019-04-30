@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1556635029 source:c:\users\meyzo naufal r\documents\github\tubes_multilinklist\main.cpp
+	<iostream>
+	"relation.h"
+	"gerbong.h"
+	"penumpang.h"
+	"unistd.h"
+	"windows.h"
+	"inimenu.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+
+1556634295 source:c:\users\meyzo naufal r\documents\github\tubes_multilinklist\relation.cpp
+	"relation.h"
+	<iostream>
+	<string>
+
+1556635537 source:c:\users\meyzo naufal r\documents\github\tubes_multilinklist\gerbong.cpp
+	<iostream>
+	"gerbong.h"
+
+1556637956 c:\users\meyzo naufal r\documents\github\tubes_multilinklist\gerbong.h
+	<stdlib.h>
+	<string>
+
+1556636057 source:c:\users\meyzo naufal r\documents\github\tubes_multilinklist\penumpang.cpp
+	"penumpang.h"
+	<iostream>
+
+1556636118 c:\users\meyzo naufal r\documents\github\tubes_multilinklist\penumpang.h
+	<string>
+	<stdlib.h>
+
+1556606373 source:c:\users\meyzo naufal r\documents\github\tubes_multilinklist\menunya.cpp
+	"unistd.h"
+	"windows.h"
+	<iostream>
+
+1556637956 c:\users\meyzo naufal r\documents\github\tubes_multilinklist\relation.h
+	"gerbong.h"
+	"penumpang.h"
+	"relation.h"
+	<iostream>
+	<stdlib.h>
+
+1556634607 source:c:\users\meyzo naufal r\documents\github\tubes_multilinklist\inimenu.cpp
+	"inimenu.h"
+	"relation.h"
+	"unistd.h"
+	"windows.h"
+	<iostream>
+
+1556631109 c:\users\meyzo naufal r\documents\github\tubes_multilinklist\inimenu.h
+	"gerbong.h"
+	"unistd.h"
+	"penumpang.h"
+	"relation.h"
+	"relation.h"
+	<stdlib.h>
+	<iostream>
+
